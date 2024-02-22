@@ -86,6 +86,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 
 int main(void)
@@ -101,7 +102,7 @@ int main(void)
 	HAL_Delay(3000);
   }  
 }
-
+```
 
 ## Output  :
  
